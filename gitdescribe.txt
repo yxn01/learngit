@@ -1,1 +1,3 @@
 ﻿Git is a source code management(SCM)
+
+git is a free software
